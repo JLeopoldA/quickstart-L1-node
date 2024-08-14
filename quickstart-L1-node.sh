@@ -9,7 +9,7 @@
 ######INSTALL PREQREQUISITES######
 ##################################
 
-echo "ceba - xlayer Archive Node"
+echo "ceba - Create L1 node"
 ##Create Directory##
 ####################
 mkdir ceba-xlayer && cd ceba-xlayer 
