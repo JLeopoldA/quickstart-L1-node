@@ -1,5 +1,6 @@
 # quickstart-L1-node
 Quickstart for L1 node using Geth and Prysm
+
 OS: Ubuntu
 
 Ports Used:
@@ -10,5 +11,10 @@ Download:
 git clone https://github.com/JLeopoldA/quickstate-L1-node.git
 
 Make executable: chmod +x quickstart-L1-node
+
 Run: sudo ./quickstart-L1-node
+
+Access Geth through http://{your_ip or server address}:8546
+
+Syncing between Geth and Prysm make take hours, depending on computer power.
 
