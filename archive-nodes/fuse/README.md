@@ -1,5 +1,5 @@
 This quickstart utilizes the quickstart provided by fuse.
-It doesn't not require an L1 node to operate, as it uses Nethermind.
+It does not require an L1 node to operate, as it uses Nethermind.
 This quickstart also uses a Docker container.
 
 Download script.
